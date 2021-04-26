@@ -11,19 +11,19 @@ int main(){
         case 1:
          printf("Dame la cantidad de pesos");
          scanf("%f", &a);
-         (operacion "b=20");
+         (opcion"b=20");
          print ("El resultado de %O.2f dolares a %O.2F PesosMX es ", a, b, a * b);
          break;
         case 2:
          printf("Dame la cantidad de pesos");
          scanf ("%f", &a);
-         (operacion b==18);
+         (opcion b==18);
          printf ("El resultado de %O.2f libras a %O.2F PesosMX es ", a, b, a * b);
          break;
         case 3:
          printf("Dame la cantidad de pesos");
          scanf ("%f", &a);
-         (operacion b==19);
+         (opcion b==19);
          printf ("El resultado de %O.2f euros a %O.2F PesosMX es ", a, b, a * b);
 
     
